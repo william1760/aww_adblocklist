@@ -1,1 +1,1 @@
-# Blocklist for Pi-Hole
+# Block List for Ads and phishing websites
