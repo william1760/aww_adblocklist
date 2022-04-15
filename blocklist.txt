@@ -10,7 +10,7 @@
 0.0.0.0 hk-laisee.com
 0.0.0.0 hk-prizes.com
 0.0.0.0 hk-offer.com
-0.0.0.0 hk-survey-61.com
+0.0.0.0 www.hk-survey-61.com
 0.0.0.0 bjbkh.net
 0.0.0.0 wkyaoye.com
 0.0.0.0 1317w.com
