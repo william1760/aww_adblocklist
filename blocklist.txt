@@ -2,24 +2,27 @@
 # Title: Block List for Ads and phishing website 
 # Update: 2022-04-15
 # ------------------------------------[FILTERS]-------------------------------------
-0.0.0.0 xyytes.xyz
-0.0.0.0 ddkktxy.xyz
-0.0.0.0 fun-deals-hongkong.com
-0.0.0.0 hk-rewards.com
-0.0.0.0 opinion-hk-76.com
-0.0.0.0 hk-laisee.com
-0.0.0.0 hk-prizes.com
-0.0.0.0 hk-offer.com
-0.0.0.0 www.hk-survey-61.com
+# Ads
 0.0.0.0 bjbkh.net
 0.0.0.0 wkyaoye.com
 0.0.0.0 1317w.com
-0.0.0.0 adskeeper.com
-0.0.0.0 nonamesrry.co
-0.0.0.0 pudish.me
-0.0.0.0 kirillaveryanov.me
-0.0.0.0 alc88.co
-0.0.0.0 jdbar.me
-0.0.0.0 shnovobo.co
-0.0.0.0 usinsengmi.co
-0.0.0.0 myangkare.co
+0.0.0.0 www.adskeeper.com
+
+# Phishing
+0.0.0.0 www.xyytes.xyz
+0.0.0.0 www.ddkktxy.xyz
+0.0.0.0 www.fun-deals-hongkong.com
+0.0.0.0 www.hk-rewards.com
+0.0.0.0 www.opinion-hk-76.com
+0.0.0.0 www.hk-laisee.com
+0.0.0.0 www.hk-prizes.com
+0.0.0.0 www.hk-offer.com
+0.0.0.0 www.hk-survey-61.com
+0.0.0.0 www.nonamesrry.co
+0.0.0.0 www.pudish.me
+0.0.0.0 www.kirillaveryanov.me
+0.0.0.0 www.alc88.co
+0.0.0.0 www.jdbar.me
+0.0.0.0 www.shnovobo.co
+0.0.0.0 www.usinsengmi.co
+0.0.0.0 www.myangkare.co
