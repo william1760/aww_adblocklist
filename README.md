@@ -1,1 +1,1 @@
-# WH_adblocklist
+# Blocklist for Pi-Hole
