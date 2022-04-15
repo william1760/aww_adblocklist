@@ -1,0 +1,25 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: AdBlock List
+# Update: 2022-04-15
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 xyytes.xyz
+0.0.0.0 ddkktxy.xyz
+0.0.0.0 fun-deals-hongkong.com
+0.0.0.0 hk-rewards.com
+0.0.0.0 opinion-hk-76.com
+0.0.0.0 hk-laisee.com
+0.0.0.0 hk-prizes.com
+0.0.0.0 hk-offer.com
+0.0.0.0 hk-survey-61.com
+0.0.0.0 bjbkh.net
+0.0.0.0 wkyaoye.com
+0.0.0.0 1317w.com
+0.0.0.0 adskeeper.com
+0.0.0.0 nonamesrry.co
+0.0.0.0 pudish.me
+0.0.0.0 kirillaveryanov.me
+0.0.0.0 alc88.co
+0.0.0.0 jdbar.me
+0.0.0.0 shnovobo.co
+0.0.0.0 usinsengmi.co
+0.0.0.0 myangkare.co
