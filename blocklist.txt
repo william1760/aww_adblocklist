@@ -27,4 +27,5 @@
 0.0.0.0 www.usinsengmi.co
 0.0.0.0 www.myangkare.co
 0.0.0.0 www.bloccastll.co
+0.0.0.0 www.whknee.xyz
 0.0.0.0 socqvf.systemrepeatwash.xyz
