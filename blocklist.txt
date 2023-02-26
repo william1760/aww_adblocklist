@@ -202,6 +202,7 @@
 0.0.0.0 adult.noodlemagazine.com
 0.0.0.0 adultdeepfakes.com
 0.0.0.0 adultdouga-db.com
+0.0.0.0 adultspic.com
 0.0.0.0 aff008.org
 0.0.0.0 aflamporn.com
 0.0.0.0 aflamsexnek.com
@@ -645,7 +646,6 @@
 0.0.0.0 ghj00.com
 0.0.0.0 giantessbooru.com
 0.0.0.0 girlscanner.cc
-0.0.0.0 github.com
 0.0.0.0 givemeav.com
 0.0.0.0 gizxs.us
 0.0.0.0 gjb.crtslt.com
@@ -2985,7 +2985,7 @@
 0.0.0.0 zhazhijiav-jump.top
 0.0.0.0 zhazhijifabu.top
 0.0.0.0 zmc.ssdh2.com
-0.0.0.0 zmwqq.com
+0.0.0.0 zmc.ssdh2.com
 0.0.0.0 znwdh.life
 0.0.0.0 zooqle.com
 0.0.0.0 zpc.aff008.co
