@@ -57,7 +57,6 @@
 0.0.0.0 4xingav.com
 0.0.0.0 50-pic.com
 0.0.0.0 50.aff008.org
-0.0.0.0 51souju.com
 0.0.0.0 554677.xyz
 0.0.0.0 5yuetian.buzz
 0.0.0.0 66se1.com
@@ -84,7 +83,6 @@
 0.0.0.0 980442.cc
 0.0.0.0 9avideo.com
 0.0.0.0 9yaomh.com
-0.0.0.0 JAVHD.com
 0.0.0.0 a58x.com
 0.0.0.0 a5top1.com
 0.0.0.0 ablinkdao.pics
@@ -103,6 +101,7 @@
 0.0.0.0 alhs.live
 0.0.0.0 aliphotos.ru
 0.0.0.0 alltubedownload.net
+0.0.0.0 alltv08.com
 0.0.0.0 animezilla.com
 0.0.0.0 ant.aff008.org
 0.0.0.0 app.tmp.link
@@ -156,7 +155,6 @@
 0.0.0.0 byrut.org
 0.0.0.0 bywx4.cyou
 0.0.0.0 bzyzmtv.top
-0.0.0.0 c8ys.com
 0.0.0.0 cams.com
 0.0.0.0 cangjingg.cc
 0.0.0.0 cangku.icu
@@ -185,7 +183,6 @@
 0.0.0.0 cms52.xyz
 0.0.0.0 crgjb.crtslt.net
 0.0.0.0 crtsgfb.xyz
-0.0.0.0 cupfox.app
 0.0.0.0 cutegirl66.com
 0.0.0.0 cv.eyehhetrtf.com
 0.0.0.0 d21u5a.com
@@ -197,7 +194,6 @@
 0.0.0.0 dbdh.sbs
 0.0.0.0 dddmh.com
 0.0.0.0 de61.xyz
-0.0.0.0 dianyingds.com
 0.0.0.0 didi.aff008.co
 0.0.0.0 didi501.top
 0.0.0.0 disrkwgrz.com
@@ -209,7 +205,6 @@
 0.0.0.0 dsp.aff008.org
 0.0.0.0 dsplktn.com
 0.0.0.0 du61.xyz
-0.0.0.0 duckduckgo.com
 0.0.0.0 e-hentai.org
 0.0.0.0 eh558.com
 0.0.0.0 emily2023.icu
@@ -282,6 +277,7 @@
 0.0.0.0 jable.tv
 0.0.0.0 jav468.club
 0.0.0.0 javdb.com
+0.0.0.0 JAVHD.com
 0.0.0.0 javhd3.info
 0.0.0.0 javhuge.com
 0.0.0.0 javmenu.com
@@ -309,7 +305,6 @@
 0.0.0.0 klozm4.com
 0.0.0.0 komica2.net
 0.0.0.0 kpzn.link
-0.0.0.0 ku10086.cc
 0.0.0.0 kuaiboav.buzz
 0.0.0.0 l.tapdb.net
 0.0.0.0 l.xiaoou.tv
@@ -372,7 +367,6 @@
 0.0.0.0 nmq.app003.vip
 0.0.0.0 nmss1.com
 0.0.0.0 nntv.xyz
-0.0.0.0 noodlemagazine.com
 0.0.0.0 ntsdh.buzz
 0.0.0.0 nu61.xyz
 0.0.0.0 nudelive.com
@@ -460,7 +454,6 @@
 0.0.0.0 sosoxx.xyz
 0.0.0.0 sou-tong.xyz
 0.0.0.0 sougouwiki.com
-0.0.0.0 soupian.app
 0.0.0.0 south-plus.net
 0.0.0.0 ss.atts13.xyz
 0.0.0.0 ss1002.com
@@ -470,7 +463,6 @@
 0.0.0.0 ssspin.xyz
 0.0.0.0 sszxkp.xyz
 0.0.0.0 stripchatgirl.com
-0.0.0.0 subhd.tv
 0.0.0.0 superchat.online
 0.0.0.0 swag.live
 0.0.0.0 swagporn.xyz
@@ -526,7 +518,6 @@
 0.0.0.0 waizhuan.net
 0.0.0.0 wangbaomengo.top
 0.0.0.0 wanomme.com
-0.0.0.0 whereiskpkuang.com
 0.0.0.0 wk009.com
 0.0.0.0 woaimeinv523.top
 0.0.0.0 woniaokuzile.com
@@ -614,7 +605,6 @@
 0.0.0.0 www.dbmeinv.com
 0.0.0.0 www.ddys.tv
 0.0.0.0 www.decorativemodels.com
-0.0.0.0 www.dianyingim.com
 0.0.0.0 www.dm233.cc
 0.0.0.0 www.dmm.co.jp
 0.0.0.0 www.dmobile.top
@@ -811,7 +801,6 @@
 0.0.0.0 www.tusiji.xyz
 0.0.0.0 www.twav666.xyz
 0.0.0.0 www.twistys.com
-0.0.0.0 www.tydz001.com
 0.0.0.0 www.uhfey.xyz
 0.0.0.0 www.utorrent.com
 0.0.0.0 www.uuwx.xyz
@@ -904,7 +893,6 @@
 0.0.0.0 xxgirls.org
 0.0.0.0 xxyaom.xyz
 0.0.0.0 xyss7.com
-0.0.0.0 yandex.com
 0.0.0.0 yaojidh99.xyz
 0.0.0.0 yavtube.com
 0.0.0.0 yazhouzhonghego.top
