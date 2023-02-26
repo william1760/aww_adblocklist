@@ -100,7 +100,6 @@
 0.0.0.0 9avideo.com
 0.0.0.0 9oclockmovie66.xyz
 0.0.0.0 9yaomh.com
-0.0.0.0 JAVHD.com
 0.0.0.0 a.cj-1.xyz
 0.0.0.0 a1b2c3.ml
 0.0.0.0 a58x.com
@@ -380,6 +379,7 @@
 0.0.0.0 javdb.com
 0.0.0.0 javdb7.com
 0.0.0.0 javfans.online
+0.0.0.0 JAVHD.com
 0.0.0.0 javhd3.info
 0.0.0.0 javhuge.com
 0.0.0.0 javmenu.com
@@ -1040,6 +1040,7 @@
 0.0.0.0 www.rlu88av.xyz
 0.0.0.0 www.rookie-av.jp
 0.0.0.0 www.rottentomatoes.com
+0.0.0.0 www.rrsmod.info
 0.0.0.0 www.rumao77.xyz
 0.0.0.0 www.s-cute.com
 0.0.0.0 www.s1s1s1.com
