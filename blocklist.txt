@@ -71,7 +71,6 @@
 0.0.0.0 84992546.xyz
 0.0.0.0 85st.com
 0.0.0.0 884169.xyz
-0.0.0.0 8d8d.me
 0.0.0.0 91cangku.monster
 0.0.0.0 91nvshengo.top
 0.0.0.0 91porn.cyou
@@ -549,6 +548,7 @@
 0.0.0.0 www.759d.com
 0.0.0.0 www.777wy.xyz
 0.0.0.0 www.7maz.xyz
+0.0.0.0 www.8d8d.me
 0.0.0.0 www.91zuixindizhi.com
 0.0.0.0 www.9jdh.lol
 0.0.0.0 www.aazaixian1.top
