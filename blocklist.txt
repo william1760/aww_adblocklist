@@ -1,6 +1,6 @@
 # ------------------------------------[UPDATE]--------------------------------------
 # Title: Block List for Ads and phishing website 
-# Update: 2022-05-30
+# Update: 2023-02-26
 # ------------------------------------[FILTERS]-------------------------------------
 # Ads
 0.0.0.0 www.bjbkh.net
@@ -29,6 +29,8 @@
 0.0.0.0 www.bloccastll.co
 0.0.0.0 www.whknee.xyz
 0.0.0.0 socqvf.systemrepeatwash.xyz
+
+# Porn
 0.0.0.0 made.porn
 0.0.0.0 ad.admitad.com
 0.0.0.0 javhd3.info
