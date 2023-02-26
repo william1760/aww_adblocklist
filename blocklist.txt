@@ -832,6 +832,7 @@
 0.0.0.0 www.clb.biz
 0.0.0.0 www.clfulidh.com
 0.0.0.0 www.clickiam.xyz
+0.0.0.0 www.comfff.com
 0.0.0.0 www.coscx.buzz
 0.0.0.0 www.cov1688.xyz
 0.0.0.0 www.crazys.cc
@@ -849,6 +850,7 @@
 0.0.0.0 www.dm233.cc
 0.0.0.0 www.dmm.co.jp
 0.0.0.0 www.dmobile.top
+0.0.0.0 www.dnaav.com
 0.0.0.0 www.domi666.top
 0.0.0.0 www.dorcel.com
 0.0.0.0 www.douban.com
@@ -870,6 +872,7 @@
 0.0.0.0 www.fakings.com
 0.0.0.0 www.fakku.net
 0.0.0.0 www.fastsoso.cn
+0.0.0.0 www.feiav.com
 0.0.0.0 www.file.io
 0.0.0.0 www.findtubes.com
 0.0.0.0 www.firefox.com.cn
@@ -908,6 +911,7 @@
 0.0.0.0 www.hmg999.top
 0.0.0.0 www.hongrg5.cc
 0.0.0.0 www.huax11.xyz
+0.0.0.0 www.huiav.com
 0.0.0.0 www.hxzjspace.xyz
 0.0.0.0 www.ideapocket.com
 0.0.0.0 www.idybee.com
@@ -930,6 +934,8 @@
 0.0.0.0 www.jd5269.top
 0.0.0.0 www.jder.net
 0.0.0.0 www.jiaochuanba.top
+0.0.0.0 www.jieav.com
+0.0.0.0 www.jiedm.com
 0.0.0.0 www.jinrijp.xyz
 0.0.0.0 www.jiumodiary.com
 0.0.0.0 www.jlb666.top
@@ -941,12 +947,14 @@
 0.0.0.0 www.katong6.xyz
 0.0.0.0 www.kbk99.xyz
 0.0.0.0 www.kdfabu.com
+0.0.0.0 www.keaiiav.com
 0.0.0.0 www.keee369.top
 0.0.0.0 www.kirakira-av.com
 0.0.0.0 www.knnpqqd.com
 0.0.0.0 www.lao4g1.xyz
 0.0.0.0 www.lao4gee.xyz
 0.0.0.0 www.lesbianpornvideos.com
+0.0.0.0 www.liliav.com
 0.0.0.0 www.limetorrents.info
 0.0.0.0 www.llsm3.xyz
 0.0.0.0 www.lltdh.com
@@ -977,6 +985,7 @@
 0.0.0.0 www.mhwx.buzz
 0.0.0.0 www.miaowuzhinan.com
 0.0.0.0 www.mien77.xyz
+0.0.0.0 www.miliav.com
 0.0.0.0 www.mimi2022.pro
 0.0.0.0 www.mimi2023.net
 0.0.0.0 www.mimi403.com
@@ -1023,6 +1032,7 @@
 0.0.0.0 www.por147.top
 0.0.0.0 www.porndex.com
 0.0.0.0 www.porndig.com
+0.0.0.0 www.pornff.com
 0.0.0.0 www.pornfind.org
 0.0.0.0 www.pornhd.com
 0.0.0.0 www.pornhub.com
@@ -1043,6 +1053,8 @@
 0.0.0.0 www.pserji.xyz
 0.0.0.0 www.qatt302.xyz
 0.0.0.0 www.qdsy.xyz
+0.0.0.0 www.qinav.com
+0.0.0.0 www.qindh.com
 0.0.0.0 www.qiudizhi.ws
 0.0.0.0 www.qmxyc.com
 0.0.0.0 www.qundixiu.com
@@ -1060,6 +1072,7 @@
 0.0.0.0 www.rlu88av.xyz
 0.0.0.0 www.rookie-av.jp
 0.0.0.0 www.rottentomatoes.com
+0.0.0.0 www.rouav.com
 0.0.0.0 www.rrsmod.info
 0.0.0.0 www.rumao77.xyz
 0.0.0.0 www.s-cute.com
@@ -1095,6 +1108,9 @@
 0.0.0.0 www.sum9191.top
 0.0.0.0 www.sxyub.xyz
 0.0.0.0 www.taotu8.net
+0.0.0.0 www.tasexy.com
+0.0.0.0 www.tasexy.top
+0.0.0.0 www.tasexy.xyz
 0.0.0.0 www.tastyblacks.com
 0.0.0.0 www.tbw789.top
 0.0.0.0 www.tcpao.top
@@ -1124,6 +1140,7 @@
 0.0.0.0 www.twav666.xyz
 0.0.0.0 www.twistys.com
 0.0.0.0 www.twzs.xyz
+0.0.0.0 www.txtxi.com
 0.0.0.0 www.uhfey.xyz
 0.0.0.0 www.uis17.com
 0.0.0.0 www.utorrent.com
@@ -1186,6 +1203,7 @@
 0.0.0.0 www.yigsdh.com
 0.0.0.0 www.yikm.net
 0.0.0.0 www.yinglunkezhan.com
+0.0.0.0 www.yinmh.com
 0.0.0.0 www.ymmdh4.com
 0.0.0.0 www.youav.com
 0.0.0.0 www.yougetsignal.com
