@@ -1,1 +1,1 @@
-# Block List for Ads and phishing websites
+# Block List for Ads and phishing and porn websites
