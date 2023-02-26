@@ -42,6 +42,7 @@
 0.0.0.0 1024bt.cyou
 0.0.0.0 10dhy.com
 0.0.0.0 1111modza.xyz
+0.0.0.0 1124386.xyz
 0.0.0.0 141hongkong.com
 0.0.0.0 141jj.com
 0.0.0.0 141tube.com
@@ -52,6 +53,7 @@
 0.0.0.0 161sex.com
 0.0.0.0 177pic.info
 0.0.0.0 17av.one
+0.0.0.0 17ii0h.com
 0.0.0.0 17lu.live
 0.0.0.0 17mimei.club
 0.0.0.0 17mimei.live
@@ -69,6 +71,9 @@
 0.0.0.0 18dongman.link
 0.0.0.0 18h.animezilla.com
 0.0.0.0 18h.mm-cg.com
+0.0.0.0 18hanime.com
+0.0.0.0 18hasmr.xyz
+0.0.0.0 18hmanga.click
 0.0.0.0 18jin.buzz
 0.0.0.0 18jjj.monster
 0.0.0.0 18porn.cc
@@ -78,6 +83,10 @@
 0.0.0.0 197aav.click
 0.0.0.0 19douyin.top
 0.0.0.0 19qs.cc
+0.0.0.0 1fu.li
+0.0.0.0 1ji.li
+0.0.0.0 1jubt.top
+0.0.0.0 1jubt.xyz
 0.0.0.0 1schoolav.com
 0.0.0.0 1xoavxo.com
 0.0.0.0 2019baidu.xyz
@@ -97,6 +106,7 @@
 0.0.0.0 2adultyansuo.com
 0.0.0.0 2oooxxxav.com
 0.0.0.0 2torrentz2eu.in
+0.0.0.0 2win.cyou
 0.0.0.0 2xav19.xyz
 0.0.0.0 2xxooav.com
 0.0.0.0 2xxxxxxav.com
@@ -117,6 +127,7 @@
 0.0.0.0 3xplanet.com
 0.0.0.0 404av.vip
 0.0.0.0 40daoaa.com
+0.0.0.0 414vbt.com
 0.0.0.0 4399acg.com
 0.0.0.0 445gei.com
 0.0.0.0 456mf.top
@@ -125,6 +136,7 @@
 0.0.0.0 4chan.org
 0.0.0.0 4desiregirl66.top
 0.0.0.0 4porn.com
+0.0.0.0 4sdenm38.com
 0.0.0.0 4xingav.com
 0.0.0.0 50-pic.com
 0.0.0.0 50.aff008.net
@@ -195,6 +207,7 @@
 0.0.0.0 91ar.xyz
 0.0.0.0 91cangku.monster
 0.0.0.0 91dizhi.rocks
+0.0.0.0 91feet.online
 0.0.0.0 91jyz.me
 0.0.0.0 91kz1nvd.com
 0.0.0.0 91madou.cc
@@ -244,9 +257,11 @@
 0.0.0.0 a85dh.top
 0.0.0.0 a8r8.com
 0.0.0.0 aa1xx.xyz
+0.0.0.0 aaapp.cyou
 0.0.0.0 aabook.cc
 0.0.0.0 aapp22.xyz
 0.0.0.0 aar.hougongya.xyz
+0.0.0.0 aaread.space
 0.0.0.0 abb.xfzxl.com
 0.0.0.0 ablinkdao.pics
 0.0.0.0 abv.hhsj5.com
@@ -315,7 +330,10 @@
 0.0.0.0 ashemaletv.com
 0.0.0.0 asiacomics.digital
 0.0.0.0 asiacomics.monster
+0.0.0.0 asiacrazy.xyz
+0.0.0.0 asiamodel.click
 0.0.0.0 asianpornmovies.com
+0.0.0.0 asiansgonewild.net
 0.0.0.0 asiantolick.com
 0.0.0.0 asmhentai.com
 0.0.0.0 asmr.one
@@ -419,6 +437,7 @@
 0.0.0.0 bbs.cnjiepai.xyz
 0.0.0.0 bbs.imoutolove.me
 0.0.0.0 bbs.jjwxc.net
+0.0.0.0 bbs.jubt.top
 0.0.0.0 bbs.m-team.cc
 0.0.0.0 bbs.north-plus.net
 0.0.0.0 bbs2.seikuu.com
@@ -460,6 +479,7 @@
 0.0.0.0 bjx.znb7.com
 0.0.0.0 bjxdh.top
 0.0.0.0 bkceoxxb.com
+0.0.0.0 bkhn2fi6.com
 0.0.0.0 bkk741.top
 0.0.0.0 bl.4848.one
 0.0.0.0 bl.m8rnwxyv3.xyz
@@ -570,6 +590,7 @@
 0.0.0.0 chihan.club
 0.0.0.0 chihdc.xyz
 0.0.0.0 chijishaonu301.com
+0.0.0.0 chineseav.xyz
 0.0.0.0 chiyou1.xyz
 0.0.0.0 chrome-extension-downloader.com
 0.0.0.0 chuangb15.xyz
@@ -620,10 +641,14 @@
 0.0.0.0 come16.xyz
 0.0.0.0 comixzilla.com
 0.0.0.0 coomeet.com
+0.0.0.0 cosporn.online
 0.0.0.0 coub.com
 0.0.0.0 cowboy.gowetrans.com
 0.0.0.0 cpav26.com
+0.0.0.0 crazy18.club
+0.0.0.0 crazyasia.cyou
 0.0.0.0 crazyfiction.xyz
+0.0.0.0 crazynovel.xyz
 0.0.0.0 crgjb.crtslt.net
 0.0.0.0 crt.lhdh6.com
 0.0.0.0 crtsgfb.xyz
@@ -657,6 +682,7 @@
 0.0.0.0 dbdh.sbs
 0.0.0.0 dbnaked.com
 0.0.0.0 dd9871.com
+0.0.0.0 ddav.xyz
 0.0.0.0 dddmh.com
 0.0.0.0 de61.xyz
 0.0.0.0 deepfakeporn.net
@@ -707,6 +733,7 @@
 0.0.0.0 duoduodh.com
 0.0.0.0 dwz.cn
 0.0.0.0 dxg.llzj9.com
+0.0.0.0 dxj.life
 0.0.0.0 dxj.pw
 0.0.0.0 dy.so11.top
 0.0.0.0 dyav60.cc
@@ -729,6 +756,7 @@
 0.0.0.0 en.bongacams.com
 0.0.0.0 en.savefrom.net
 0.0.0.0 en.smutcam.com
+0.0.0.0 endcpp.top
 0.0.0.0 erocool1.icu
 0.0.0.0 erogames.com
 0.0.0.0 erolord.com
@@ -779,9 +807,11 @@
 0.0.0.0 filmav.org
 0.0.0.0 findzv.com
 0.0.0.0 fisting.vip
+0.0.0.0 fkxl.xyz
 0.0.0.0 fl.avldh.com
 0.0.0.0 flbao.xyz
 0.0.0.0 flj.app003.live
+0.0.0.0 flj.app003.me
 0.0.0.0 flj.app003.vip
 0.0.0.0 flmav2.top
 0.0.0.0 flyflv.com
@@ -797,6 +827,7 @@
 0.0.0.0 forums.sexyandfunny.com
 0.0.0.0 forusex.com
 0.0.0.0 fps.frftt.com
+0.0.0.0 fqbook.cc
 0.0.0.0 fqdm.xyz
 0.0.0.0 fr.royalcams.com
 0.0.0.0 free-ss.site
@@ -880,7 +911,9 @@
 0.0.0.0 gv.aff008.fun
 0.0.0.0 gv.aff008.org
 0.0.0.0 gydh.xyz
+0.0.0.0 h-doujinshi.xyz
 0.0.0.0 h-flash.com
+0.0.0.0 h-webtoon.com
 0.0.0.0 h1214.com
 0.0.0.0 h2porn.com
 0.0.0.0 h528.com
@@ -888,6 +921,7 @@
 0.0.0.0 haijiao.com
 0.0.0.0 hanime.tv
 0.0.0.0 hanime1.me
+0.0.0.0 hanime1.online
 0.0.0.0 haobox.xyz
 0.0.0.0 haokan99.cc
 0.0.0.0 haokanaa.pw
@@ -987,6 +1021,7 @@
 0.0.0.0 hwb.crtslt.com
 0.0.0.0 hxcy.moe
 0.0.0.0 hxiaoshuo1.buzz
+0.0.0.0 hxzdh3.com
 0.0.0.0 hxzz2004.top
 0.0.0.0 hxzz2006.top
 0.0.0.0 hy22.sbs
@@ -1144,6 +1179,7 @@
 0.0.0.0 jmacg2022.me
 0.0.0.0 jmvbt.com
 0.0.0.0 jmwu.xyz
+0.0.0.0 jn8d0f.com
 0.0.0.0 jojodl.pw
 0.0.0.0 jpavdvd.com
 0.0.0.0 jpgravure.com
@@ -1153,6 +1189,7 @@
 0.0.0.0 jsquea.xyz
 0.0.0.0 jstar119.xyz
 0.0.0.0 jtyn.xyz
+0.0.0.0 jubt.fun
 0.0.0.0 juicygif.com
 0.0.0.0 juicysextapes.com
 0.0.0.0 jukan.xyz
@@ -1160,6 +1197,7 @@
 0.0.0.0 jump.9aijump.com
 0.0.0.0 jump.jiuaishiping.com
 0.0.0.0 jusefuli.xyz
+0.0.0.0 justav.online
 0.0.0.0 justswallows.com
 0.0.0.0 juyouav.com
 0.0.0.0 jvqingav.com
@@ -1199,6 +1237,7 @@
 0.0.0.0 kpds.xyz
 0.0.0.0 kpp301.top
 0.0.0.0 kpzn.link
+0.0.0.0 krbj.xyz
 0.0.0.0 ks.aff008.fun
 0.0.0.0 kuaf.xyz
 0.0.0.0 kuaiboav.buzz
@@ -1212,6 +1251,7 @@
 0.0.0.0 l.xiaoou.tv
 0.0.0.0 l.yfcp1992.com
 0.0.0.0 lady7.cc
+0.0.0.0 lambo.cyou
 0.0.0.0 lan.so22.top
 0.0.0.0 landaohang1.xbe4.top
 0.0.0.0 landh.link
@@ -1278,6 +1318,7 @@
 0.0.0.0 lzpth.com
 0.0.0.0 m.mcaoav.com
 0.0.0.0 m.zhongziso888.xyz
+0.0.0.0 m22l29.com
 0.0.0.0 maa1814.com
 0.0.0.0 made.porn
 0.0.0.0 madou.monster
@@ -1367,6 +1408,7 @@
 0.0.0.0 mustjav.com
 0.0.0.0 mv.aff008.fun
 0.0.0.0 mv.nwxs9.com
+0.0.0.0 mvpdh147.top
 0.0.0.0 myavsuper.com
 0.0.0.0 myavxx.xyz
 0.0.0.0 myfun911.top
@@ -1379,6 +1421,7 @@
 0.0.0.0 myporn.club
 0.0.0.0 mysexgames.com
 0.0.0.0 mysticboy.top
+0.0.0.0 myua58.ztz700.com
 0.0.0.0 myyy.buzz
 0.0.0.0 mzyy.us
 0.0.0.0 na61.xyz
@@ -1470,6 +1513,7 @@
 0.0.0.0 oorpg.com
 0.0.0.0 ooxx.movie
 0.0.0.0 opensir13.top
+0.0.0.0 opwydk.com
 0.0.0.0 otaku1024.xyz
 0.0.0.0 otsz.xyz
 0.0.0.0 otz.kxgav1.com
@@ -1534,6 +1578,7 @@
 0.0.0.0 porn.airav.me
 0.0.0.0 porn18sex.com
 0.0.0.0 porn4days.biz
+0.0.0.0 porn518.com
 0.0.0.0 porn555.com
 0.0.0.0 porn7.tv
 0.0.0.0 porn87.com
@@ -1628,6 +1673,7 @@
 0.0.0.0 rarbg.to
 0.0.0.0 rarbgmirror.com
 0.0.0.0 rawtube.com
+0.0.0.0 readbook.men
 0.0.0.0 recurbate.com
 0.0.0.0 redamz.itch.io
 0.0.0.0 redcross66.com
@@ -1646,6 +1692,7 @@
 0.0.0.0 rouser.vip
 0.0.0.0 royalcams.com
 0.0.0.0 royallorginal.com
+0.0.0.0 rrread.xyz
 0.0.0.0 rrstv.top
 0.0.0.0 rule34.xxx
 0.0.0.0 rule34.xyz
@@ -1656,6 +1703,7 @@
 0.0.0.0 s-books.com
 0.0.0.0 s11.7086xz.rocks
 0.0.0.0 s227v.xyz
+0.0.0.0 sa.2g0w9a7v6.xyz
 0.0.0.0 sadrte.com
 0.0.0.0 saigaosang.life
 0.0.0.0 saltycorner.com
@@ -1685,6 +1733,7 @@
 0.0.0.0 seneporno.com
 0.0.0.0 senlinzy.com
 0.0.0.0 seqing.one
+0.0.0.0 sesebookmark.xyz
 0.0.0.0 sesexia.cc
 0.0.0.0 setanfl.cfd
 0.0.0.0 sewen.buzz
@@ -1800,6 +1849,7 @@
 0.0.0.0 sslun.com
 0.0.0.0 ssrtool.us
 0.0.0.0 sss666.icu
+0.0.0.0 ssshuqian.xyz
 0.0.0.0 sssoutv.top
 0.0.0.0 ssspin.xyz
 0.0.0.0 sstm.moe
@@ -2170,6 +2220,7 @@
 0.0.0.0 www.aazaixian1.top
 0.0.0.0 www.abc01.club
 0.0.0.0 www.abigass.com
+0.0.0.0 www.abpuvw.com
 0.0.0.0 www.acgavhs.com
 0.0.0.0 www.acgcn.info
 0.0.0.0 www.ad889.top
@@ -2604,6 +2655,7 @@
 0.0.0.0 www.hdzog.com
 0.0.0.0 www.heavyonhotties.com
 0.0.0.0 www.hegre.com
+0.0.0.0 www.heihd.com
 0.0.0.0 www.helloavgirls.com
 0.0.0.0 www.hentai-foundry.com
 0.0.0.0 www.hentai.ms
@@ -2756,6 +2808,7 @@
 0.0.0.0 www.kitty-kats.net
 0.0.0.0 www.kkll01.xyz
 0.0.0.0 www.klsexgirls.com
+0.0.0.0 www.km301.net
 0.0.0.0 www.knnpqqd.com
 0.0.0.0 www.kuaizi.tv
 0.0.0.0 www.kxx91.com
@@ -2990,6 +3043,7 @@
 0.0.0.0 www.pichunter.com
 0.0.0.0 www.pictoa.com
 0.0.0.0 www.pigav.org
+0.0.0.0 www.pinkapp.top
 0.0.0.0 www.piring.com
 0.0.0.0 www.pixiv.net
 0.0.0.0 www.pjbav.xyz
@@ -3079,6 +3133,7 @@
 0.0.0.0 www.qilangdh.xyz
 0.0.0.0 www.qinav.com
 0.0.0.0 www.qindh.com
+0.0.0.0 www.qinimg.com
 0.0.0.0 www.qiudizhi.ws
 0.0.0.0 www.qmxyc.com
 0.0.0.0 www.qnsdh.com
@@ -3137,6 +3192,7 @@
 0.0.0.0 www.seselah.com
 0.0.0.0 www.sewangchao3.com
 0.0.0.0 www.sex.com
+0.0.0.0 www.sexfl.xyz
 0.0.0.0 www.sexgangsters.com
 0.0.0.0 www.sexier.com
 0.0.0.0 www.sexlove3.com
@@ -3371,6 +3427,7 @@
 0.0.0.0 www.wikifeet.com
 0.0.0.0 www.winporn.com
 0.0.0.0 www.wmfl.xyz
+0.0.0.0 www.wmfl3.xyz
 0.0.0.0 www.wnacg.com
 0.0.0.0 www.wnacg.org
 0.0.0.0 www.wnflb2020.com
@@ -3474,6 +3531,7 @@
 0.0.0.0 www.xzsd.cc
 0.0.0.0 www.yaav.xyz
 0.0.0.0 www.yalayi.com
+0.0.0.0 www.yanjiu3.xyz
 0.0.0.0 www.yaoli301.top
 0.0.0.0 www.yaoyao01.xyz
 0.0.0.0 www.yaro.com.tw
@@ -3606,6 +3664,7 @@
 0.0.0.0 xiaohuangman1.com
 0.0.0.0 xiaohuangman2111.xyz
 0.0.0.0 xiaohuangshu.cc
+0.0.0.0 xiaolajiao.pw
 0.0.0.0 xiaolajiaodh.xyz
 0.0.0.0 xiaoshimei.work
 0.0.0.0 xiaossdh1.com
@@ -3636,6 +3695,7 @@
 0.0.0.0 xmoviesforyou.cf
 0.0.0.0 xmoviesforyou.com
 0.0.0.0 xmv.dbf0.com
+0.0.0.0 xn--fhqt0m0xea.club
 0.0.0.0 xn--i8sq8r6zst7c.com
 0.0.0.0 xn--tfrq9jjzak83g.com
 0.0.0.0 xn--tfrs17es0d.xyz
