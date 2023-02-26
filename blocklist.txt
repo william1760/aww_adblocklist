@@ -3094,7 +3094,6 @@
 0.0.0.0 www.rdswoo.top
 0.0.0.0 www.realgfporn.com
 0.0.0.0 www.rechub.tv
-0.0.0.0 www.reddit.com
 0.0.0.0 www.redtube.com
 0.0.0.0 www.reg007.com
 0.0.0.0 www.regou.la
