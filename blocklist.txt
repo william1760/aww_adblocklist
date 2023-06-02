@@ -29,6 +29,7 @@
 0.0.0.0 www.bloccastll.co
 0.0.0.0 www.whknee.xyz
 0.0.0.0 socqvf.systemrepeatwash.xyz
+0.0.0.0 suspended-account-hk.com
 
 # Porn
 0.0.0.0 005ty.xyz
