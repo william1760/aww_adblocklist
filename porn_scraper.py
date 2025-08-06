@@ -18,7 +18,9 @@ START_URLS = [
     "https://91porna.com/comic/index/av",
     "https://diaoda.co",
     "https://141jj.com/",
-    "https://topavmap.com/"
+    "https://topavmap.com/",
+    "https://tw.xchina.co/",
+    "https://besides.xmgcxzy.org/",
 ]
 PORN_KEYWORDS = [
     "成人", "无码", "無碼", "黄色", "黃色", "禁書", "18禁", "限制級",
