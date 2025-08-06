@@ -23,7 +23,7 @@
 0.0.0.0 www.kirillaveryanov.me
 0.0.0.0 www.alc88.co
 0.0.0.0 www.jdbar.me
-0.0.0.0 www.shnovobo.co
+www.shnovobo.co
 0.0.0.0 www.usinsengmi.co
 0.0.0.0 www.myangkare.co
 0.0.0.0 www.bloccastll.co
@@ -3854,3 +3854,17 @@
 0.0.0.0 zuoyuedh.xyz
 0.0.0.0 zydizhi.com
 0.0.0.0 zzs568.xyz
+
+#2025-08-06
+0.0.0.0 avday.app
+0.0.0.0 canovel.com
+0.0.0.0 dfjstory.com
+0.0.0.0 dfjav.com
+0.0.0.0 javhd.com
+0.0.0.0 1000novel.com
+0.0.0.0 jkforum.net
+0.0.0.0 jvid.com
+0.0.0.0 69story.com
+0.0.0.0 animezilla.com
+0.0.0.0 sex-gen.com
+0.0.0.0 book18.org
