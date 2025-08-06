@@ -3856,16 +3856,23 @@ www.shnovobo.co
 0.0.0.0 zzs568.xyz
 
 #2025-08-06
-0.0.0.0 avday.app
-0.0.0.0 canovel.com
-0.0.0.0 dfjstory.com
-0.0.0.0 dfjav.com
-0.0.0.0 javhd.com
 0.0.0.0 1000novel.com
-0.0.0.0 jkforum.net
-0.0.0.0 jvid.com
+0.0.0.0 18jav.tv
 0.0.0.0 69story.com
 0.0.0.0 animezilla.com
-0.0.0.0 sex-gen.com
+0.0.0.0 avday.app
 0.0.0.0 book18.org
-0.0.0.0 9night.in
+0.0.0.0 canovel.com
+0.0.0.0 dfjav.com
+0.0.0.0 dfjstory.com
+0.0.0.0 fsnovel.com
+0.0.0.0 h528.com
+0.0.0.0 javhd.com
+0.0.0.0 jkforum.net
+0.0.0.0 jvid.com
+0.0.0.0 pmambistro.com
+0.0.0.0 roots-official.com
+0.0.0.0 sex-gen.com
+0.0.0.0 tw.xchina.co
+0.0.0.0 xbookcn.com
+0.0.0.0 xchina.com
