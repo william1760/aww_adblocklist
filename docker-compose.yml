@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  porn_scraper:
+    build:
+      context: .
+      dockerfile: dockerfile
+    container_name: porn_scraper
+    dns:
+      - 8.8.8.8        # Google DNS
+      - 1.1.1.1        # Cloudflare DNS
+    volumes:
+      - .:/app/porn_scraper
+    working_dir: /app/porn_scraper
+    entrypoint: tail -f /dev/null
+    shm_size: '1gb'
+    tty: true

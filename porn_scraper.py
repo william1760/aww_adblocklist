@@ -12,6 +12,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import shutil as sh
 
+from keywords import PORN_KEYWORDS
+
 # ===== CONFIG =====
 START_URLS = [
     "https://qingse.one",
@@ -21,18 +23,16 @@ START_URLS = [
     "https://topavmap.com/",
     "https://tw.xchina.co/",
     "https://besides.xmgcxzy.org/",
+    "https://9night.in/",
+    "https://avday.app/",
 ]
-PORN_KEYWORDS = [
-    "成人", "无码", "無碼", "黃色", "18禁", "限制級",
-    "porn", "jav", "av", "sexually", "情色", "性爱", "性愛", "色情",
-    "艳情", "豔情", "三级片", "三級片", "成人影片", "成人网站", "成人網站",
-    "裸聊", "裸体", "裸體", "诱惑", "誘惑", "日番", "情色小說"
-]
-OUTPUT_FILE = "porn_domains.txt"
+OUTPUT_FILE = "blocklist.txt"
+SAFE_DOMAINS = {"t.me", "telegram.org"}
 MAX_LINKS = 1000
 MAX_DEPTH = 0
-# ==================
 
+
+# ===================
 def get_browser_paths():
     chrome_bin = sh.which("chromium") or sh.which("google-chrome") or sh.which("chrome")
     driver_path = sh.which("chromedriver")
@@ -42,10 +42,10 @@ def get_browser_paths():
         )
     return chrome_bin, driver_path
 
+
 def is_porn_link(text):
     return any(kw.lower() in text.lower() for kw in PORN_KEYWORDS)
 
-SAFE_DOMAINS = {"t.me", "telegram.org"}
 
 def clean_domain(url):
     parsed = urlparse(url)
@@ -64,6 +64,7 @@ def clean_domain(url):
         if root_domain not in SAFE_DOMAINS:
             return root_domain
     return None
+
 
 def scrape_site(start_url):
     domains = set()
@@ -93,17 +94,28 @@ def scrape_site(start_url):
         options.add_argument("--headless=new")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
+        options.page_load_strategy = "eager"
 
         service = Service(driver_path)
         driver = None
         try:
             print(f"[DEBUG] Launching browser for: {url}")
             driver = webdriver.Chrome(service=service, options=options)
-            driver.set_page_load_timeout(20)
+            driver.set_page_load_timeout(120)
             print(f"[DEBUG] Navigating to: {url}")
             driver.get(url)
+            driver.execute_cdp_cmd("Network.enable", {})
+            driver.execute_cdp_cmd("Network.setBlockedURLs", {"urls": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.webp", "*.css", "*.woff", "*.ttf", "*.otf", "*.svg", "*.mp4", "*.webm"]})
             print(f"[DEBUG] Page loaded for: {url}")
             driver.implicitly_wait(10)
+
+            # Debug - capture a screenshot
+            # if "avday.app" in url:
+            #     try:
+            #         driver.save_screenshot(f"avday_{uuid.uuid4()}.png")
+            #         print(f"[DEBUG] Screenshot saved for {url}")
+            #     except Exception as screenshot_err:
+            #         print(f"[ERROR] Failed to capture screenshot: {screenshot_err}")
 
             elements = driver.find_elements("tag name", "a")
             print(f"[DEBUG] Found {len(elements)} links on: {url}")
@@ -149,7 +161,7 @@ def check_domain_and_content(domain):
                 html = r.text.lower()
 
                 # Debug output for specific domain
-                # if "xbookcn.com" in domain:
+                # if "https://topavmap.com/" in domain:
                 #     print(f"[DEBUG] Raw HTML for {domain} [URL: {url}]")
                 #     print(html)
 
@@ -163,6 +175,7 @@ def check_domain_and_content(domain):
                 print(f"[DEBUG] Dead: {domain} [URL: {url}]")
                 continue
     return False, False
+
 
 if __name__ == "__main__":
     from selenium.common.exceptions import TimeoutException
@@ -199,8 +212,44 @@ if __name__ == "__main__":
             except Exception as e:
                 print(f"[ERROR] Checking {domain} failed: {e}")
 
+    # Load existing content from OUTPUT_FILE
+    try:
+        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+            existing_lines = f.readlines()
+    except FileNotFoundError:
+        existing_lines = []
+
+    existing_domains = set()
+    other_lines = []
+    in_porn_section = False
+
+    updated_lines = []
+    added = False
+
+    for line in existing_lines:
+        line = line.rstrip()
+        if line.strip().lower() == "# type: porn":
+            in_porn_section = True
+            other_lines.append(line)
+            continue
+        if in_porn_section and line.startswith("0.0.0.0"):
+            parts = line.split()
+            if len(parts) == 2:
+                existing_domains.add(parts[1])
+        else:
+            other_lines.append(line)
+
+    # Add new porn domains (deduplicated)
+    new_domains = sorted(set(alive_porn_domains) - existing_domains)
+
+    for line in other_lines:
+        updated_lines.append(line)
+        if line.strip().lower() == "# type: porn" and not added:
+            for d in new_domains:
+                updated_lines.append(f"0.0.0.0 {d}")
+            added = True
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        for d in sorted(alive_porn_domains):
-            f.write(f"0.0.0.0 {d}\n")
+        f.write("\n".join(updated_lines) + "\n")
 
     print(f"[DONE] Saved {len(alive_porn_domains)} alive porn domains to {OUTPUT_FILE} in blocklist format")

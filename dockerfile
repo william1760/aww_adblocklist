@@ -30,6 +30,8 @@ RUN apt-get update && apt-get install -y \
     libpangocairo-1.0-0 \
     libgtk-3-0 \
     xvfb \
+    iputils-ping \
+    dnsutils \
     && rm -rf /var/lib/apt/lists/*
 
 # Environment variables so Selenium uses Chromium
