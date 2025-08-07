@@ -7,6 +7,7 @@
 0.0.0.0 www.wkyaoye.com
 0.0.0.0 www.1317w.com
 0.0.0.0 www.adskeeper.com
+0.0.0.0 ads.superad.cc
 
 # Type: Phishing
 0.0.0.0 www.xyytes.xyz
