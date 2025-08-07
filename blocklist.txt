@@ -78,6 +78,7 @@
 0.0.0.0 av1688.cc
 0.0.0.0 av6k.com
 0.0.0.0 av99.us
+0.0.0.0 avday.app
 0.0.0.0 avbebe.com
 0.0.0.0 avcome.com
 0.0.0.0 avfhw.buzz
